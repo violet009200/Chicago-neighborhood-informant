@@ -7,11 +7,6 @@ First, create database by using MySQL program then the program download the data
 
 You can change file-path for .csv file in Database.java in main function. 
 
-Database information:   
-        url = "jdbc:mysql://localhost:3306/";
-        Database Name = "440_group7";
-        Driver = "com.mysql.jdbc.Driver";
-        userName = "root";
-        password = "root";
+Database information is in DatabaseModifier.java
         
         
